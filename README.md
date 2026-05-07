@@ -1,4 +1,4 @@
-# 👨‍💻 Gustavo Herminio
+# 👨🏽‍💻 Gustavo Herminio
 **`Desenvolvedor .NET`**
 
 <h3>Sobre mim:</h3>
