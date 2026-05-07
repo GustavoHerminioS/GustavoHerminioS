@@ -1,9 +1,12 @@
 # 👩🏻‍💻 Gustavo Herminio
 **`Desenvolvedor .NET`**
 
-About the human behind the codes:
-🌎 I'm a 22 years old brazilian developer from São Paulo.
----
+<h3>Sobre mim:</h3>
+      <ul>
+        <li>
+          🌎 Sou um desenvolvedor brasileiro de 22 anos, de São Paulo.
+        </li>
+      </ul>
 
 ### 🤖 Linguagens e Tecnologias
 
