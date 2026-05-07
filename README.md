@@ -23,7 +23,7 @@ About the human behind the codes:
 ### 📊 Estatistícas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=gabzoom&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabzoom&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=GustavoHerminioS&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=GustavoHerminioS&layout=compact&theme=react"/>
 </div>
 
